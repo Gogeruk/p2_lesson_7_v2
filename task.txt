@@ -1,0 +1,5 @@
+Перенести код из предыдущего задания на принцип Model View Controller.
+
+List of changes:
+1)updaate now works using GET and you can give vals through urls.
+2)there is no pure php code in blade files now.
